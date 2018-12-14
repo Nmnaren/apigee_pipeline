@@ -125,10 +125,10 @@
                 <apigee.profile>test</apigee.profile>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>ashishraj07-eval</apigee.org>
+                <apigee.org>narendrababulinux-eval</apigee.org>
                 <apigee.env>${env}</apigee.env>
-                <apigee.username>ashish.raj07@hotmail.com</apigee.username>
-                <apigee.password>A$hish.1</apigee.password>
+                <apigee.username>narendrababulinux@gmail.com</apigee.username>
+                <apigee.password>Narendra@123</apigee.password>
                 <apigee.authtype>basic</apigee.authtype> <!-- optional: oauth|basic(default) -->
                 <apigee.tokenurl>https://login.apigee.com/oauth/token</apigee.tokenurl> <!-- optional: oauth -->
                 <apigee.mfatoken>${mfatoken}</apigee.mfatoken> <!-- optional: mfa -->
